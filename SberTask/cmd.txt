@@ -1,0 +1,3 @@
+При запуске из папки src:
+javac -cp ..\.idea\libraries\jar_files\gson-2.8.2.jar Main.java
+java -classpath "..\.idea\libraries\jar_files\gson-2.8.2.jar;..\src\" Main ..\json.json
